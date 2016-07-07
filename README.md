@@ -1,4 +1,4 @@
-# myRIO 1900
+# NI myRIO 1900
 Embedded System. Sponsored by National Instruments.
 
 "NI myRIO places dual-core ARM® Cortex™-A9 real-time processing and Xilinx FPGA customizable I/O into the hands of students. With its onboard devices, seamless software experience, and library of courseware and tutorials, NI myRIO provides an affordable tool that students can use to do real engineering in one semester." 
