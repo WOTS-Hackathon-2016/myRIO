@@ -7,8 +7,8 @@ Read More -> http://www.ni.com/myrio/
 ![alt tag] (http://sine.ni.com/images/products/us/05161303_m.jpg)
 
 #Links
-http://www.ni.com/myrio/what-is/
-http://www.ni.com/tutorial/14621/en/
+-http://www.ni.com/myrio/what-is/
+-http://www.ni.com/tutorial/14621/en/
 
 
 
